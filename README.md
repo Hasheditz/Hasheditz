@@ -8,7 +8,7 @@
 
 ---
 ### 👦 About Me
-- 👨‍💻 I'm a CS Pre-final graduate at UIET Kanpur
+- 👨‍💻 I'm a CSE Pre-final graduate at UIET Kanpur
 
 - 🔭 I’m currently working on **UIET Connect**
 
@@ -29,7 +29,7 @@
 --- 
 
 ### ⚙️ My Projects :
-- Updating soon
+- Github User Info
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
