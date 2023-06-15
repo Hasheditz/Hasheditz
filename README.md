@@ -7,6 +7,21 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Hello+this+is+Hasheditz%2C+Welcome+to+my+Github+page.)](https://git.io/typing-svg)
 
 ---
+
+### 🔗 Social info
+<div id="badges">
+    <a href="https://www.linkedin.com/in/12-harendra-singh//">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=harendrasingh2406@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    </a>
+    <a href="http://harendrasingh.tech/">
+    <img src="https://img.shields.io/badge/Portfolio-dda703?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
+    </a>
+</div>
+
+---
 ### 👦 About Me
 - 👨‍💻 I'm a CSE Pre-final graduate at UIET Kanpur
 
@@ -21,7 +36,7 @@
 ### 🔥: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hasheditz&theme=highcontrast&background=000000)](https://git.io/streak-stats)
 <img src="https://github-readme-stats.vercel.app/api?username=hasheditz&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-
+### 💻: My Activity :
 [![My activity](https://activity-graph.herokuapp.com/graph?username=hasheditz&bg_color=0d0d0d&color=1ab749&line=4e73ca&point=bfbfbf&area=true&hide_border=true%22)](https://github.com/hasheditz)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasheditz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
@@ -32,6 +47,11 @@
 
 ### ⚙️ My Projects :
 - Github User Info
+### Projects
+
+- **Project 1:** UIET
+- **Project 2:** Description of Project 2
+- **Project 3:** Description of Project 3
 ---
 
 ### 🛠️ : Languages and Tools :
@@ -58,23 +78,12 @@
 
 ---
 
-### 🔗 Social info
-<div id="badges">
-    <a href="https://www.linkedin.com/in/12-harendra-singh//">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=harendrasingh2406@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-    </a>
-    <a href="http://harendrasingh.tech/">
-    <img src="https://img.shields.io/badge/Portfolio-dda703?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
-    </a>
-</div>
+
 
 
 ---
 
-### 🕴️Visitor Info
+### 👀 Visitor Info
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=hasheditz) -->
 ![Visitor Count](https://profile-counter.glitch.me/{hasheditz}/count.svg)
