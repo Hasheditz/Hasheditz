@@ -2,7 +2,7 @@
   <img src=https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif width="200"/>
 </div>
 
-<h2 align="center">Hi 👋, I'm Harendra Singh</h2>
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Hello+this+is+Hasheditz%2C+Welcome+to+my+Github+page.)](https://git.io/typing-svg)
 
@@ -33,15 +33,27 @@
 
 --- 
 
-### 🔥: My Stats :
+### 🔥: My Stats : ## &#x1f4c8; GitHub Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hasheditz&theme=highcontrast&background=000000)](https://git.io/streak-stats)
 <img src="https://github-readme-stats.vercel.app/api?username=hasheditz&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-### 💻: My Activity :
-[![My activity](https://activity-graph.herokuapp.com/graph?username=hasheditz&bg_color=0d0d0d&color=1ab749&line=4e73ca&point=bfbfbf&area=true&hide_border=true%22)](https://github.com/hasheditz)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasheditz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight)]()
+<a href="https://github.com/hasheditz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasheditz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hasheditz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Harendra's GitHub Stats" />
+</a>
+
+<a href="https://github.com/MartinHeinz/python-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<a href="https://github.com/MartinHeinz/go-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
+
 
 --- 
 
