@@ -74,5 +74,6 @@
 
 ### Visitor Info
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=hasheditz)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=hasheditz) -->
+![Visitor Count](https://profile-counter.glitch.me/{hasheditz}/count.svg)
 
