@@ -18,7 +18,7 @@
 
 --- 
 
-### :fire: My Stats :
+### 🔥: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hasheditz&theme=highcontrast&background=000000)](https://git.io/streak-stats)
 <img src="https://github-readme-stats.vercel.app/api?username=hasheditz&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
@@ -34,7 +34,7 @@
 - Github User Info
 ---
 
-### 🛠️: Languages and Tools :
+### 🛠️ : Languages and Tools :
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>&nbsp;
@@ -74,7 +74,7 @@
 
 ---
 
-### Visitor Info
+### 🕴️Visitor Info
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=hasheditz) -->
 ![Visitor Count](https://profile-counter.glitch.me/{hasheditz}/count.svg)
