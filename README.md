@@ -24,7 +24,7 @@
 
 [![My activity](https://activity-graph.herokuapp.com/graph?username=hasheditz&bg_color=0d0d0d&color=1ab749&line=4e73ca&point=bfbfbf&area=true&hide_border=true%22)](https://github.com/hasheditz)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasheditz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasheditz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight)]()
 
