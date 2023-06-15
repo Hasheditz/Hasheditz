@@ -33,7 +33,7 @@
 
 --- 
 
-### 🔥: My Stats : ## &#x1f4c8; GitHub Stats
+### &#x1f4c8; GitHub Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hasheditz&theme=highcontrast&background=000000)](https://git.io/streak-stats)
 <img src="https://github-readme-stats.vercel.app/api?username=hasheditz&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
@@ -41,17 +41,17 @@
 <a href="https://github.com/hasheditz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasheditz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
-<a href="https://github.com/MartinHeinz/MartinHeinz">
+<!-- <a href="https://github.com/MartinHeinz/MartinHeinz">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hasheditz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Harendra's GitHub Stats" />
-</a>
-
+</a> -->
+<!-- 
 <a href="https://github.com/MartinHeinz/python-project-blueprint">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+</a> -->
 
 
-<a href="https://github.com/MartinHeinz/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/Hasheditz/gfg_potd">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hasheditz&repo=gfg_potd&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
 
