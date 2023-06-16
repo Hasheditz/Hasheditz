@@ -2,13 +2,13 @@
   <img src=https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif width="200"/>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=900&height=25&lines=Welcome+to+my+Github+page.)](https://git.io/typing-svg)
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" align = "justify" > I'am Harendra Singh
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=1000&height=25&lines=Welcome+to+my+Github+page.)](https://git.io/typing-svg)
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" align = "justify" > I'am Harendra Singh.
 
 ---
 
 ### 🔗 Social info
-<div id="badges">
+<div id="badges" align="center">
     <a href="https://www.linkedin.com/in/12-harendra-singh//">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
