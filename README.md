@@ -50,14 +50,14 @@
 </a> -->
 
 
-<a href="https://github.com/Hasheditz/gfg_potd">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hasheditz&repo=gfg_potd&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
+<!-- <a href="https://github.com/Hasheditz/gfg_potd"> -->
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hasheditz&repo=gfg_potd&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /> -->
+<!-- </a>     -->
 
 
 --- 
 
-### ⚙️ My Projects :
+<!-- ### ⚙️ My Projects :
 - Github User Info
 ### Projects
 
@@ -65,7 +65,7 @@
 - **Project 2:** Description of Project 2
 - **Project 3:** Description of Project 3
 ---
-
+ -->
 ### 🛠️ : Languages and Tools :
 
 <div>
