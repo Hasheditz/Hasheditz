@@ -36,7 +36,6 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hasheditz&theme=highcontrast&background=000000)](https://git.io/streak-stats)
 <img src="https://github-readme-stats.vercel.app/api?username=hasheditz&show_icons=true&theme=gotham" alt="abhisheknaiidu"  />
 
-[![Github Lanf]
 <a href="https://github.com/hasheditz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasheditz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=000000&langs_count=3" />
 </a>
@@ -69,6 +68,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="heroku" width="40" height="40"/>&nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="heroku" width="40" height="40"/>&nbsp;
   <img src="https://svgshare.com/i/5xY.svg" alt="heroku" width="40" height="40"/>&nbsp;
 </div>
 
