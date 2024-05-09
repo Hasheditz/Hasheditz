@@ -22,9 +22,9 @@
 
 ---
 ### 👦 About Me
-- 👨‍💻 I'm a CSE Pre-final graduate at UIET Kanpur
+- 👨‍💻 I'm a CSE Final graduate at UIET Kanpur
 
-- 🔭 I’m currently working on **UIET Connect**
+- 🔭 I’m currently working on **Coding Solutions Platform**
 
 - 🌱 I’m currently developing and learning **JavaScript, Node.js, and other full-stack tools.**
 
