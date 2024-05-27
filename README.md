@@ -4,7 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=1000&height=25&lines=Welcome+to+my+Github+page.)](https://git.io/typing-svg)
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" align = "justify" > I'am Harendra Singh.
-
 ---
 
 ### 🔗 Social info
