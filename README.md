@@ -21,7 +21,7 @@
 
 ---
 ### 👦 About Me
-- 👨‍💻 I'm a CSE Final graduate at UIET Kanpur
+- 👨‍💻 I'm pursuing M.Tech CSE at IIT Jammu
 
 - 🔭 I’m currently working on **Coding Solutions Platform**
 
